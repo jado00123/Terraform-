@@ -1,3 +1,4 @@
+```hcl
 terraform {
   required_providers {
     azurerm = {
