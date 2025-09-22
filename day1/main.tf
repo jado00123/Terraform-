@@ -11,8 +11,8 @@ terraform {
 provider "azurerm" {
   features {}
 
-  subscription_id = "82aad9bf-5e07-4453-a938-c9c1279755bb" # استبدلها من az account list
-  tenant_id       = "53026bc7-1a33-4029-aad2-933633d4780a" # استبدلها من az account list
+  subscription_id = "xxxxxxxxxxxxxxxxxxxxxxx" # استبدلها من az account list
+  tenant_id       = "xxxxxxxxxxxxxxxxxxxxxxx" # استبدلها من az account list
 
 }
 
