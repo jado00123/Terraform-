@@ -23,7 +23,7 @@ day2/
 ├── variables.tf     # Input variables
 ├── terraform.tfvars # Variable values
 └── outputs.tf       # Output values
-
+```
 
 
 - `main.tf`: Defines all Azure resources.
