@@ -1,4 +1,4 @@
-```markdown
+
 # Day2 Terraform Project - Azure Infrastructure
 
 ## Overview
@@ -143,6 +143,5 @@ This project is structured for clarity and maintainability. By separating **vari
 * Share outputs with team members
 * Keep Terraform code clean and readable
 
-```
 
----
+
