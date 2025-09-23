@@ -24,7 +24,7 @@ day2/
 ├── terraform.tfvars # Variable values
 └── outputs.tf       # Output values
 
-````
+
 
 - `main.tf`: Defines all Azure resources.
 - `variables.tf`: Declares input variables with description and type.
@@ -40,7 +40,7 @@ day2/
 2. Authenticate with Azure CLI:
    ```bash
    az login
-````
+
 
 3. Verify your subscription:
 
@@ -142,6 +142,4 @@ This project is structured for clarity and maintainability. By separating **vari
 * Reuse modules
 * Share outputs with team members
 * Keep Terraform code clean and readable
-
-
 
