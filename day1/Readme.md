@@ -1,5 +1,4 @@
 
-HEAD
 
 # Terraform Project - Day 1
 
@@ -131,6 +130,3 @@ This project demonstrated how to:
 * Troubleshoot common Terraform + Azure issues.
 * Destroy resources safely.
 
-
-
-fd06b15 (Prepare day1 folder and README)
