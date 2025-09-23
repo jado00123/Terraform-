@@ -1,0 +1,7 @@
+resource_group_name = "example-resources"
+location = "westeurope"
+vnet_name            = "example-vnet"
+subnet_name         = "example-subnet"
+vm_name             = "example-vm"
+vm_size             = "Standard_B1s"
+admin_username      = "azureuser"
